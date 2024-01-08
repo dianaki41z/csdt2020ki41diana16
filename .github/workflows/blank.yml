@@ -1,5 +1,5 @@
-git checkout -b future/develop task 6
+git checkout -b future/develop task 1
 git add .
-git commit -m future develop task 6
-git push origin future/develop task 6
+git commit -m future develop task 1
+git push origin future/develop task 1
 
